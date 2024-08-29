@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(144, 196, 55);
+    height: 100px;
+    width: 100%;
+    border-radius: 5px 5px 5px 80px;
+    justify-content: space-around;
+    display: flex;
+}
+.oi{
+    display: flex;
+    align-items:center;
+    flex-direction:row;
+    padding: 10px;
+    width: 100%;
+
+    
+
+}
+img{ 
+    height: 20px;
+}
+.sino{
+    align-items: end;
+}
+h3{
+    align-items: ;
+
+}
